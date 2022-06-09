@@ -144,7 +144,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="titlepage text_align_center">
-            <h2>What we do </h2>
+            <h2>Nos competences</h2>
           </div>
         </div>
       </div>

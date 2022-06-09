@@ -144,7 +144,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="titlepage text_align_center">
-            <h2>Nos domaines de ccompetences</h2>
+            <h2>Nos domaines de compétences</h2>
           </div>
         </div>
       </div>
@@ -203,11 +203,11 @@
                       <div class="col-md-4">
                         <div id="bo_ho" class="we_box text_align_left">
                           <i><img src="images/we1.png" alt="#" /></i>
-                          <h3>website <br>development</h3>
+                          <h3>Devéloppemnt de <br>site web</h3>
                           <p>many variations of passages of Lorem Ipsum available, but the majority have suffered
                             alteration in some form, by injected humour, or randomised words which
                           </p>
-                          <a class="read_more" href="we_do">Read More</a>
+                          <a class="read_more" href="we_do">Voir plus</a>
                         </div>
                       </div>
                       <div class="col-md-4">

@@ -43,7 +43,7 @@
               <div class="center-desk">
                 <div class="logo">
                   <span class="font-weight-bold">ICloud</span>
-                  <span>Technology</span>
+                  <span>Bienvenue au SOC</span>
                 </div>
               </div>
             </div>

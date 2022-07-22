@@ -144,7 +144,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="titlepage text_align_center">
-            <h2>SOC Meeting 1</h2>
+            <h2>SOC Meeting 2</h2>
           </div>
         </div>
       </div>

@@ -145,7 +145,7 @@
                 <div class="container-fluid">
                   <div class="carousel-caption relative">
                     <div class="bluid">
-                      <h1>Creative <br>Work Idea </h1>
+                      <h1>Creative1 <br>Work Idea </h1>
                       <p>There are many variations of passages of Lorem Ipsum <br>available, but the majority have
                         suffered alteration
                       </p>
